@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IpCalculator</string>
+    <string name="header">IP Kalkulátor</string>
+    <string name="clear">Smazat</string>
+    <string name="mask_request">Zadej masku podsítě</string>
+    <string name="button_text">Vypočítat</string>
+    <string name="ip_request">Zadej IP adresu</string>
+    <string name="ip_hint">255.255.255.255</string>
+    <string name="mask_hint">32</string>
+    <string name="spsoa">SPSOA Bruntál</string>
+    <string name="mask_result">Maska sítě:</string>
+    <string name="address_result">Adresa sítě:</string>
+    <string name="first_ip_result">První IP:</string>
+    <string name="last_ip_result">Poslední IP:</string>
+    <string name="broadcast_result">Broadcast:</string>
+    <string name="ip_count_result">Počet adres:</string>
+    <string name="ip_class_result">Druh sítě:</string>
+    <string name="ip_status_result">Dostupnost:</string>
+</resources>
